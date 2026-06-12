@@ -33,6 +33,6 @@ This simple project demonstrates how to connect a Java application to a MySQL da
 
 ```java
 // Database connection credentials
-private static final String URL = "jdbc:mysql://localhost:3306/OnlineShoppingSystem";
+private static final String URL = "jdbc:mysql://localhost:3306/onlineshopping_new";
 private static final String USER = "root";  
 private static final String PASSWORD = "your_password_here";
